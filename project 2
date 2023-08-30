@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>Project 2</title>
+</head>
+<body>
+    <center>
+        <h1>
+           <b>Welcome To Engineering help</b> 
+        </h1>
+        <div>
+            <img src="helpinghand.jpg" alt="hand" height="300px" width="500px">
+            <br><br>
+            <li><a href="https://youtu.be/qLvPYMHYCBY">Why you do Engineering ?</a></li>
+            <li><a href="https://www.youtube.com/embed/VvAC7xuZWCs"> Roadmap Videos</a></li>
+            
+        </div>
+
+    </center>
+    <div>
+        <big><h3>About Engineering help</h3></big>
+        <p><big><b>E</b></big>ngineering help is a pivotal resource that fosters innovation, problem-solving one day before eaxm, and progress in the modern world. It encompasses a wide spectrum of services, guidance, and expertise tailored to support individuals, teams, and organizations in tackling complex challenges across various industries, and it helps all Engineering students finding his/her all subjects for semestar.</p>
+    </div>
+
+    <div>
+        <h2>What we learn in this page</h2>
+        <ul>
+            <li>
+                Discreate mathmatices
+            </li>
+            <li>
+                optics and optical fiber
+            </li>
+            <li>
+                Probability and stastics
+            </li>
+            <li>
+                Python
+            </li>
+            <li>
+                DSA
+            </li>
+            <li>
+                Java
+            </li>
+            <li>
+                C
+            </li>
+            <li>
+                Machine learning
+            </li>
+            <li>
+                Html
+            </li>
+            <li>
+                CSS
+            </li>
+            <li>
+                Operating system
+            </li>
+        </ul>
+
+
+
+    </div>
+    <div>
+        <big><h4>Discreate mathmatices</h4></big>
+       
+     <iframe width="340" height="260" src="https://www.youtube.com/embed/wGLTV8MgLlA?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg" title="Discrete Mathematics | Overview &amp; Concept Of SET Theory By Dr.Gajendra Purohit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+     <iframe width="340" height="260" src="https://www.youtube.com/embed/1lDfp1j9yzA?list=PLU6SqdYcYsfJ27O0dvuMwafS3X8CecqUg" title="Discrete Mathematics Lecture 2 | Principle of Mathematical Induction By Dr.Gajendra Purohit" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen ></iframe>
+    </div>
+        <div>
+           <big> <h4>Optices and opitical fiber</h4></big>
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/G-UyeFDsXlI" title="Optical fiber || Fiber optics cable" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+           <big><h4>Probability and statices</h4></big>
+           <iframe width="340" height="260" src="https://www.youtube.com/embed/a2BbvX8QsF8" title="Probability and Statistics L :1 | Engineering Mathematics | End GAME of Mathematics | Saurabh Thakur" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+           <big><h4>Python</h4></big>
+           <big><h6>What is Python</h6></big>
+           <details>
+            <summary>
+                ANSWER
+            </summary>
+            Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems
+           </details>
+           <iframe width="340" height="260" src="https://www.youtube.com/embed/7wnove7K-ZQ?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg" title="Introduction to Programming &amp; Python | Python Tutorial - Day #1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+           <iframe width="340" height="260" src="https://www.youtube.com/embed/Tto8TS-fJQU?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg" title="Some Amazing Python Programs - The Power of Python | Python Tutorial - Day #2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>DSA</h4></big>
+            <BIG><H6>
+                <p>what is dsa ? </p>
+            </H6></BIG>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                <P>Data structures and algorithms (DSA) are an important aspect of any programming language. Every language has its own data structures and its way of handling different types of algorithms</P>
+            </details>
+            <p>Videos</p>
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/fPDQVUIxCas" title="Data Structures Full Course |Data Structures Using C |Data Structures in C | DS Full Course in Hindi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>Java</h4></big>
+            <big><h6>What is java ?</h6></big>
+                <details>
+                    <summary>
+                        ANSWER
+                    </summary>
+                    Java is a widely-used programming language for coding web applications. It has been a popular choice among developers for over two decades, with millions of Java applications in use today. Java is a multi-platform, object-oriented, and network-centric language that can be used as a platform in itself
+                </details>
+                <iframe width="340" height="260" src="https://www.youtube.com/embed/UmnCZ7-9yDY" title="Java Tutorial for Beginners | Learn Java in 2 Hours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>C</h4></big>
+            <BIG><h6>What is c ?</h6></BIG>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                C is a procedural language that provides no support for objects and classes.
+            </details>
+            Videos
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/rQoqCP7LX60" title="C Programming in One Shot | Part 1 | Variables, Operators and Input/ Output | C Complete Course" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+        </div>
+        <div>
+            <big><h4>Machine learning</h4></big>
+            <BIG><H6>What is machine learning ?</H6></BIG>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                Machine learning is a branch of artificial intelligence (AI) and computer science which focuses on the use of data and algorithms to imitate the way that humans learn, gradually improving its accuracy
+            </details>
+            <iframe width="340" height="3\260" src="https://www.youtube.com/embed/RnFGwxJwx-0" title="Machine Learning with Python | Machine Learning Tutorial for Beginners | Machine Learning Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>Html</h4></big>
+            <BIG><H6>What is HTML ?</H6></BIG>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                HTML stands for Hyper Text Markup Language. HTML is the standard markup language for creating Web pages. HTML describes the structure of a Web page. HTML consists of a series of elements. HTML elements tell the browser how to display the conten
+            </details>
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/HcOc7P5BMi4" title="HTML Tutorial for Beginners | Complete HTML with Notes &amp; Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>CSS</h4></big>
+            <big><h6>What is CSS</h6></big>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                CSS is the acronym of “Cascading Style Sheets”. CSS is a computer language for laying out and structuring web pages (HTML or XML). This language contains coding elements and is composed of these “cascading style sheets” which are equally called CSS file
+            </details>
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/ESnrn1kAD4E" title="CSS Tutorial for Beginners | Complete CSS with Project, Notes &amp; Code" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+        <div>
+            <big><h4>Oparating System</h4></big>
+            <big><h6>What is Oparating system</h6></big>
+            <details>
+                <summary>
+                    ANSWER
+                </summary>
+                Operating System (OS) is an interface between a computer user and computer hardware. An operating system is a software which performs all the basic tasks like file management, memory management, process management, handling input and output, and controlling peripheral devices such as disk drives and printers
+            </details>
+            <iframe width="340" height="260" src="https://www.youtube.com/embed/3obEP8eLsCw" title="Complete Operating Systems in 1 Shot (With Notes) || For Placement Interviews" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        </div>
+      <center>
+        <div>
+            <p>It is dedicate for all Engineers</p>
+            <figure>
+                <figcaption>LISTEN</figcaption>
+                <audio controls src="Give Me Some Sunshine 320 Kbps.mp3">
+                </audio>
+              </figure>
+              
+        </div>
+      </center>
+        <footer>
+
+        </footer>
+      
+</body>
+</html>
